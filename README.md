@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a simple frontend for media feed data obtained from [this project](https://github.com/bryce0110/media-feed), which displays data from the database in an organized card layout.
 
 ## Getting Started
 
