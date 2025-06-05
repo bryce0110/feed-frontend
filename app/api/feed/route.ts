@@ -5,7 +5,7 @@ export async function POST(req: Request, res: Response) {}
 
 export async function GET(req: Request, res: Response) {
     const query = `
-        SELECT * FROM feed
+        SELECT rowid, * FROM feed
         ORDER BY CreatedAt DESC
     `;
 
